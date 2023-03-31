@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="public/bp.png">
-</h1>
+# Banco Pink
 
 <h1>
     <img src="public/apresentacao.gif">
@@ -24,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
@@ -32,9 +30,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/bp-bank.git
+    $ git clone https://github.com/KellyVasconcellos/banco-pink-html-css.git
     # Entrar no diretório
-    $ cd clone-investimentos
+    $ cd banco-pink-html-css
 ```
 
 ---
